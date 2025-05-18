@@ -10,3 +10,8 @@ Test '#' for title
 
 Test for image
 ![A Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
