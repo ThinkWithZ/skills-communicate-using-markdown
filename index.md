@@ -15,3 +15,7 @@ Test for image
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] do something meaningful
+- [x] make me happy
+- [ ] love
